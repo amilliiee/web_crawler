@@ -1,0 +1,14 @@
+{
+  "name": "seo-link-analyzer",
+  "version": "1.0.0",
+  "description": "boot.dev guided project - web crawler using node.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "amilliiee",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
